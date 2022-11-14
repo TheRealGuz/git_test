@@ -1,2 +1,3 @@
 Hello! Learning to code with TOP.
 Small change to test commit with VSCode.
+Adding another small change because commit message wasn't done correctly.
